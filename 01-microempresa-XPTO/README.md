@@ -20,7 +20,7 @@ A primeira etapa focou em identificar as entidades principais e suas regras de n
 ## 📐 Modelo Lógico
 Na tradução para o modelo lógico, foram definidos os tipos de dados e as Chaves Estrangeiras (FK) que garantem a integridade referencial. A tabela de funcionários atua como o elo central, conectando departamentos e endereços.
 
-![Modelo Lógico](./logico_xpto.png)
+![Modelo Lógico](./Modelo_Logico_XPTO.png)
 
 ---
 
