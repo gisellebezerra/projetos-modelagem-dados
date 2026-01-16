@@ -15,7 +15,7 @@ Esta é uma versão inicial (MVP) focada em:
 ## 🎨 Modelo Conceitual
 A primeira etapa focou em identificar as entidades principais e suas regras de negócio. Destaca-se o relacionamento **1:N** entre Departamento e Funcionário, e o relacionamento **1:1** com a entidade Endereço para uma melhor organização dos dados.
 
-![Modelo Conceitual](./conceitual_xpto.png)
+![Modelo Conceitual](./01-microempresa-XPTO/Modelo_Conceitual_XPTO.png)
 
 ## 📐 Modelo Lógico
 Na tradução para o modelo lógico, foram definidos os tipos de dados e as Chaves Estrangeiras (FK) que garantem a integridade referencial. A tabela de funcionários atua como o elo central, conectando departamentos e endereços.
