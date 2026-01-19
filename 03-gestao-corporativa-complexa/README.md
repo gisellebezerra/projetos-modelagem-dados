@@ -15,5 +15,4 @@ Este projeto modela a estrutura complexa de uma empresa, focando na hierarquia d
 ### 📐 Modelo Lógico
 ![Modelo Lógico](./logico_empresa.png)
 
----
-*Este modelo demonstra habilidades avançadas em normalização e relacionamentos recursivos.*
+
