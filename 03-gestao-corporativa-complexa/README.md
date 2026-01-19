@@ -15,4 +15,15 @@ Este projeto modela a estrutura complexa de uma empresa, focando na hierarquia d
 ### 📐 Modelo Lógico
 ![Modelo Lógico](./logico_empresa.png)
 
+---
+
+## 🛠️ Tecnologias e Conceitos Aplicados
+* **PostgreSQL:** Banco de dados utilizado para a implementação física.
+* **Normalização:** Separação de dados geográficos e dependentes para melhor manutenção.
+* **Integridade Referencial:** Uso de `PRIMARY KEY` e `FOREIGN KEY` (incluindo autorrelacionamento).
+* **Restrições (Constraints):** Aplicação de `UNIQUE` para CPFs e `NOT NULL` para campos obrigatórios.
+
+## 💻 Como executar o projeto
+1. O script SQL de criação das tabelas está disponível no arquivo [script_empresa.sql](./script_empresa.sql).
+2. Recomenda-se a execução em ambiente PostgreSQL.
 
